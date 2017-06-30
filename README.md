@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+
+I am leaving the text as it is, just added this line for showing "Im not lazy"
 
 You can use the [editor on GitHub](https://github.com/kulla37/kulla37.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
